@@ -1,0 +1,7 @@
+name: Mar Ivan R. Arguelles
+CYS: BSCS 2E
+Course: BSCS
+Instructor: Eugene Fortunado
+Age: 18
+Address: 395 Int. B. Morada Ave. Brgy. Uno Lipa City 
+Contact Number: 09270470871
