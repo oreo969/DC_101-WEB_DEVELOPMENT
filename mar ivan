@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Mar Ivan Arguelles | Personal Webpage</title>
+    <!-- https://htmlpreview.github.io/?https://github.com/oreo969/DC_101-WEB_DEVELOPMENT/blob/2a42d58e98738038ac4192469913f96bd0dbe722/ivan.html -->
+</head>
+
+<body>
+   <header>
+        <h3>Mar Ivan Arguelles</h3>
+      <div>
+        <h2>Ivan.</h2>
+      </div>
+      <div>
+         <ul>
+             <li><a href="iii.html" target="_self">PROFILE</a></li>
+             <li><a href="ivan.html" target="_self">SONG LYRICS</a></li>
+        <ul>
+        </div>
+   </header>
+
+   <main>
+      <div>
+          <h3>About Me</h3>
+          <p><strong>NAME:</strong> Arguelles, Mar Ivan R.</p>
+          <p><strong>CYS:</strong> BSCS 2E</p>
+          <p><strong>SUBJECT</strong> DC101 - Web Development</p>
+          <p><strong>INSTRUCTOR</strong> Engr. John Eugene B. Fortunado</p>
+          <p><strong>EMAIL:</strong> tlga.arguellesmarivan@gmail.com</p>
+   
+          <style>
+            .social-icon {
+                 color: #aaaa;
+                 transition: color 0.3;
+                 text-decoration: none;
+            } 
+            
+            .social-icon:hover {
+                 color:darkgray
+            } 
+ 
+         
+         </style>
+ 
+         <a class="social-icon" href="https://www.facebook.com/ivanarguelles12331/" target="_blank">
+             <ion-icon name="logo-facebook"></ion-icon> 
+         </a>
+         <a class="social-icon" href="https://www.instagram.com/irglls/" target="_blank">
+             <ion-icon name="logo-instagram"></ion-icon>
+         </a>
+         
+         <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+         <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    
